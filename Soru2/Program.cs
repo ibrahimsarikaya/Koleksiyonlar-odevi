@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace ArrayHW
+namespace Soru2
 {
-    class MainClass
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             int[] girilensayilar = new int[20];
             
