@@ -10,6 +10,7 @@ namespace Soru2
             
             for (int i = 0; i < 20; i++)
             {
+                Console.WriteLine("Lütfen Bir Sayı Giriniz: ");
                 girilensayilar[i] = Convert.ToInt32(Console.ReadLine());
             }
 
@@ -21,7 +22,7 @@ namespace Soru2
 
             for (int i = 0; i < 3; i++)
             {
-                buyukortalama += girilensayilar[i];
+                kucukortalama += girilensayilar[i];
                 
                 Console.Write(girilensayilar[i]+" ");
             }
