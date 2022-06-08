@@ -1,0 +1,15 @@
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\bin\Debug\net6.0\Soru2.exe
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\bin\Debug\net6.0\Soru2.deps.json
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\bin\Debug\net6.0\Soru2.runtimeconfig.json
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\bin\Debug\net6.0\Soru2.dll
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\bin\Debug\net6.0\Soru2.pdb
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.csproj.AssemblyReference.cache
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.AssemblyInfoInputs.cache
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.AssemblyInfo.cs
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.csproj.CoreCompileInputs.cache
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.dll
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\refint\Soru2.dll
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.pdb
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\Soru2.genruntimeconfig.cache
+C:\Derslerim\Koleksiyonlar-odevi\Soru2\obj\Debug\net6.0\ref\Soru2.dll
